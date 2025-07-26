@@ -122,12 +122,12 @@ The tutorial generates several types of visualizations:
 
 After completing this tutorial, students will be able to:
 
-- ✅ Understand the mathematical foundations of graph neural networks
-- ✅ Implement GCN and GAT layers from scratch
-- ✅ Visualize and interpret graph data and embeddings
-- ✅ Train GNN models on real datasets
-- ✅ Compare different GNN architectures
-- ✅ Extend the framework for custom applications
+-  Understand the mathematical foundations of graph neural networks
+-  Implement GCN and GAT layers from scratch
+-  Visualize and interpret graph data and embeddings
+-  Train GNN models on real datasets
+-  Compare different GNN architectures
+-  Extend the framework for custom applications
 
 ## Customization
 
@@ -174,22 +174,20 @@ This tutorial implements concepts from:
 - Veličković et al. (2018): "Graph Attention Networks"
 - Hamilton (2020): "Graph Representation Learning"
 
-## 📜 License
+## License
 
 MIT License - Feel free to use for educational purposes!
 
 ## Author
 
 Created to help students understand Graph Neural Networks through practical implementation and visualization. 
-
-**"The best way to learn is by doing!"**
-
 ---
-
+**"The best way to learn is by doing!"**
+---
 ## Ready to Start?
 
 ```bash
 python main.py
 ```
 
-**Happy Learning! **
+** Happy Learning! **
