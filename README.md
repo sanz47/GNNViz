@@ -61,27 +61,25 @@ That's it! The tutorial will automatically run through all demonstrations with i
 
 When you run `python main.py`, you'll experience:
 
-1. **Graph Basics** (5 mins)
+1. **Graph Basics** 
    - Understanding graph data structures
    - Visualizing adjacency matrices
    - Node features representation
 
-2. **GCN Implementation** (10 mins)
+2. **GCN Implementation**
    - Building graph convolution from scratch
    - Training on sample data
    - Embedding evolution visualization
 
-3. **Architecture Comparison** (10 mins)
+3. **Architecture Comparison** 
    - GCN vs GAT performance
    - Side-by-side visualizations
    - Accuracy comparisons
 
-4. **Real Dataset Analysis** (5 mins)
+4. **Real Dataset Analysis** 
    - Karate Club graph exploration
    - Community detection visualization
    - Final results interpretation
-
-**Total Time: ~30 minutes**
 
 ## Sample Outputs
 
