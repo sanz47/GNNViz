@@ -187,4 +187,4 @@ Created to help students understand Graph Neural Networks through practical impl
 python main.py
 ```
 
-** Happy Learning! **
+# Happy Learning! 
