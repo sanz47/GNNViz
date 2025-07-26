@@ -170,7 +170,6 @@ This is an educational resource! Contributions welcome:
 This tutorial implements concepts from:
 - Kipf & Welling (2017): "Semi-Supervised Classification with Graph Convolutional Networks"
 - Veličković et al. (2018): "Graph Attention Networks"
-- Hamilton (2020): "Graph Representation Learning"
 
 ## License
 
