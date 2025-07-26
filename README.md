@@ -175,12 +175,6 @@ This tutorial implements concepts from:
 
 MIT License - Feel free to use for educational purposes!
 
-## Author
-
-Created to help students understand Graph Neural Networks through practical implementation and visualization. 
----
-**"The best way to learn is by doing!"**
----
 ## Ready to Start?
 
 ```bash
