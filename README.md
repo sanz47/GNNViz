@@ -186,5 +186,3 @@ Created to help students understand Graph Neural Networks through practical impl
 ```bash
 python main.py
 ```
-
-# Happy Learning! 
